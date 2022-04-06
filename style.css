@@ -1,0 +1,78 @@
+body {
+   
+    background-color: #121214;
+    position: relative;
+width: 1280px;
+height: 720px;
+    
+}
+header {
+    text-align: center;
+    margin: 42px 517px 73px 517px;
+}
+.quem_ta_assistindo {
+    display: flex;
+    color: #FFFFFF;
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 42px;
+      
+}
+
+.usuario-pai {
+    margin: 61px ;
+}
+
+main {
+    color: #9C9C9C;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+section {
+    display: flexbox;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.usuarios {
+        list-style-type: none;
+        margin: 26px;
+}
+
+.usuario_nome {
+    color: #9C9C9C;
+    text-align: center;
+}
+
+.usuario-dois {
+    margin: 0px 26px 0px 26px;
+}
+
+.usuarios-tres {
+    margin: 0px 26px 0px 0px;
+}
+.botao {
+    display: flex;
+    justify-content: center;
+    margin: 102px 0px 0px 0px;
+}
+button {
+    color: #9C9C9C;
+    font-size: 16px;
+    background-color: #121214;
+    border: 1.5px solid #FFFFFF;
+    border-radius: 8px;
+    padding: 14px 44px 15px 44px;
+}
+#filho-um {
+    display: flex;
+
+}
+.usuario_figura{
+    border-radius: 10px;
+    margin: 0px 0px 16px 0px;
+    cursor: pointer;
+}
