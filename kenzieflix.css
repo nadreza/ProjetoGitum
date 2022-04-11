@@ -22,7 +22,7 @@ body {
 .quem_ta_assistindo {
     display: flex;
     color: #FFFFFF;
-    font-family: 'IBM Plex Sans';
+    font-family: 'IBM Plex Sans', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 32px;
@@ -60,7 +60,7 @@ section {
 .usuario_nome {
     color: #9C9C9C;
     text-align: center;
-    font-family: 'IBM Plex Sans';
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 
